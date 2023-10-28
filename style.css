@@ -1,0 +1,24 @@
+#container{
+    margin:auto;
+    border:5px solid lightBlue;
+    border-radius: 33px;
+    font-size:30px;
+    padding:33px;
+    text-align:center;
+    height:260px;
+    width:600px;
+    background-color:#0e2431;
+  }
+
+
+  p{
+    color:white;
+  }
+  #userInput{
+    width:170px;
+    height:23px;
+  
+  }
+  #outputText{
+    color:red;
+  }
